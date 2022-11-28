@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Alba Miñano Mañero</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>10 | Alba Miñano Mañero</title>
+    <link>/publication-type/10/</link>
+      <atom:link href="/publication-type/10/index.xml" rel="self" type="application/rss+xml" />
+    <description>10</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>10</title>
+      <link>/publication-type/10/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>/publication/parks/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       <guid>/publication/parks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>When are D-graded neighborhoods not degraded? Greening the legacy of redlining</title>
-      <link>/publication/published-paper/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper/</guid>
       <description></description>
     </item>
     
