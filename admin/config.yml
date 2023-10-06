@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+title: Alba Miñano-Mañero
 media_folder: 'static/media/'
 public_folder: 'media'
 collections:
