@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "WORKING PAPERS\n            \n            \n                \n                    \n                        \n                            \n                                When are D-graded neighborhoods not degraded?\n                            \n                        \n                        \n                            Greening the legacy of redlining\n                        \n                        \n                        \n                        \n                            \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         Latest version\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                        \n                    \n                \n            \n                \n                    \n                        \n                            \n                                Trees of green\n                            \n                        \n                        \n                            Constructing panesl of tree canopy from aerial imagery\n                        \n                        \n                        \n                        \n                            \n                        \n                        \n                            \n                                \n                                \n                                    \n                                    \n                                    \n                                         Latest version\n                                    \n                                \n                                \n                            \n                        \n                    \n                    \n                        \n                            \n                        \n                    \n                \n            \n                \n                    \n                        \n                            \n                                City buzz\n                            \n                        \n                        \n                            Face-to-Face interaction and the urban environment\n                        \n                        \n                            \n                            \n                            \n                                with\n                                \n                                    \n                                        Dani Arribas-Bel\n                                    \n                                    \n                                        \n                                            , \n                                        \n                                    \n                                \n                                    \n                                        Souneil Park\n                                    \n                                    \n                                        \n                                            , and \n                                        \n                                    \n                                \n                                    \n                                        Diego Puga\n                                    \n                                    \n                                        \n                                    \n                                \n                            \n                        \n                        \n                        \n                            \n                        \n                        \n                            \n                        \n                    \n                    \n                        \n                            \n                        \n                    \n                \n            \n                    \n    \n        \n            \n                WORK IN PROGRESS\n            \n            \n                \n                    \n                        \n                            \n                                The Park Movement and the Urban Mortality Transition\n                            \n                        \n                        \n                            \n                        \n                        \n                        \n                        \n                            \n                        \n                        \n                            \n                        \n                    \n                    \n                        \n                            \n                        \n                    \n                \n            \n                    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/treesofgreen/index.html",
+    "href": "research/treesofgreen/index.html",
+    "title": "Trees of green",
+    "section": "",
+    "text": "This paper develops a fully-automated workflow for constructing panels of tree canopy from high-resolution multispectral imagery with limited near-infrared (NIR) training data. The workflow utilizes the tree-pixel detection algorithm developed by Yang et al. (2009) and Bosch (2020) on a large set of U.S. urban areas but modifies it by creating automatic ground-truth masks through various visual graphics techniques that leverage modern high-resolution NIR data. Using a subset of cities that represent the different U.S. climate regions, I quantify the effectiveness of the workflow by implementing the algorithm. The comparison shows that my workflow is the option that leads to better results in terms of accuracy, recall, and precision."
+  },
+  {
+    "objectID": "research/treesofgreen/index.html#abstract",
+    "href": "research/treesofgreen/index.html#abstract",
+    "title": "Trees of green",
+    "section": "",
+    "text": "This paper develops a fully-automated workflow for constructing panels of tree canopy from high-resolution multispectral imagery with limited near-infrared (NIR) training data. The workflow utilizes the tree-pixel detection algorithm developed by Yang et al. (2009) and Bosch (2020) on a large set of U.S. urban areas but modifies it by creating automatic ground-truth masks through various visual graphics techniques that leverage modern high-resolution NIR data. Using a subset of cities that represent the different U.S. climate regions, I quantify the effectiveness of the workflow by implementing the algorithm. The comparison shows that my workflow is the option that leads to better results in terms of accuracy, recall, and precision."
+  },
+  {
+    "objectID": "research/treesofgreen/index.html#section",
+    "href": "research/treesofgreen/index.html#section",
+    "title": "Trees of green",
+    "section": "",
+    "text": "Mapping between near-infrared light and tree canopy  ##"
+  },
+  {
+    "objectID": "research/treesofgreen/index.html#suggested-citation",
+    "href": "research/treesofgreen/index.html#suggested-citation",
+    "title": "Trees of green",
+    "section": "Suggested Citation",
+    "text": "Suggested Citation\n@misc{minanogreen2023,\n  author = {Alba Miñano-Mañero},\n  title = {Trees of green: constructing panels of tree canopy from aerial imagery},\n  year = {2023}\n}"
+  },
+  {
+    "objectID": "research/parkmovement/index.html",
+    "href": "research/parkmovement/index.html",
+    "title": "The Park Movement and the Urban Mortality Transition",
+    "section": "",
+    "text": "This project studies how the improvements in the urban physical space (the park movement) implemented between 1850 and 1950 contributed to the urban mortality transition in the City of New York. Although these landscapes modifications were motivated by incorrect science (such as reducing miasmas), they may have had positive long-term effects."
+  },
+  {
+    "objectID": "research/parkmovement/index.html#abstract",
+    "href": "research/parkmovement/index.html#abstract",
+    "title": "The Park Movement and the Urban Mortality Transition",
+    "section": "",
+    "text": "This project studies how the improvements in the urban physical space (the park movement) implemented between 1850 and 1950 contributed to the urban mortality transition in the City of New York. Although these landscapes modifications were motivated by incorrect science (such as reducing miasmas), they may have had positive long-term effects."
+  },
+  {
+    "objectID": "research/parkmovement/index.html#section",
+    "href": "research/parkmovement/index.html#section",
+    "title": "The Park Movement and the Urban Mortality Transition",
+    "section": "",
+    "text": "Massachusetts Sanitary Commissioners (1850). Report of a general plan for the promotion of public and personal health."
+  },
+  {
+    "objectID": "research/research.html",
+    "href": "research/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Working papers\nWhen are D-graded neighborhoods not degraded? [PDF]\n\n\nAbstract\n\nThis paper explores how geography shapes the legacy of redlining, the systemic mortgage lending bias against minority us neighborhoods. On average, redlined neighborhoods lag behind adjacent, less-discriminated areas in home values, income, and racial composition. Yet, redlined neighborhoods near parks and water fare better. To help understand convergence, we inventory waterfront renovations, apply machine learning to historical imagery to track tree canopy changes, and instrument such changes exploiting tree replacements due to geographic variation in tree plagues and susceptible species. Findings suggest that enhancing waterfronts and increasing tree canopy can mitigate the long-lasting effects of institutionalized discrimination\n\nTrees of green: constructing panels of tree canopy from aerial imagery [PDF]\n\n\nAbstract\n\nThis paper develops a fully-automated workflow for constructing panels of tree canopy from high-resolution multispectral imagery with limited near-infrared (NIR) training data. The proposed workflow utilizes the tree-pixel detection algorithm developed by Yang, Wu, Praun, and Ma (2009) and Bosch (2020) on a large set of U.S. urban areas but modifies it by creating automatic ground-truth masks through various visual graphics techniques that leverage modern high-resolution NIR data. By matching colors across different imagery periods, the workflow predicts tree presence in older images without NIR data, using the recent images with NIR data. Using a subset of cities that represent the different U.S. climate regions, I quantify the effectiveness of the workflow by implementing the algorithm without pre-processing in the creation of ground-truth masks, without equalizing colors across periods, and using a universal model for all areas. The comparison shows that my workflow is the option that leads to better results in terms of accuracy, recall, and precision.\n\nCity buzz: Face-to-Face interactions and the urban environment,with Dani Arribas-Bel, Souneil Park and Diego Puga\n\n\nAbstract\n\nWe measure face-to-face interactions as the coincidence in space and time of two cellphone users who have previously called each other or who start doing so after the event. We characterize the quantity, quality (network centrality of contacts met), and variety (probability that two interactions are with different contacts) of face-to-face interactions for every individual. We also characterize interactions defined by the different degrees of strength in the call network and differentiate among strong and weak ties. We show how the individual’s experienced density and other features of the urban environment affects these measures of interactions.\n\n\n\nWork in progress\nThe Park Movement and the urban mortality transition\n\n\nAbstract\n\nThis project studies how the improvements in the urban physical space (the park movement) implemented between 1850 and 1950 contributed to the urban mortality transition in the City of New York. Although these landscapes modifications were motivated by incorrect science (such as reducing miasmas), they may have had positive long-term effects."
+  },
+  {
+    "objectID": "research/dgraded/index.html",
+    "href": "research/dgraded/index.html",
+    "title": "When are D-graded neighborhoods not degraded?",
+    "section": "",
+    "text": "This paper explores how geography shapes the legacy of redlining, the systemic mortgage lending bias against minority us neighborhoods. On average, redlined neighborhoods lag behind adjacent, less-discriminated areas in home values, income, and racial composition. Yet, redlined neighborhoods near parks and water fare better. To help understand convergence, we inventory waterfront renovations, apply machine learning to historical imagery to track tree canopy changes, and instrument such changes exploiting tree replacements due to geographic variation in tree plagues and susceptible species. Findings suggest that enhancing waterfronts and increasing tree canopy can mitigate the long-lasting effects of institutionalized discrimination."
+  },
+  {
+    "objectID": "research/dgraded/index.html#abstract",
+    "href": "research/dgraded/index.html#abstract",
+    "title": "When are D-graded neighborhoods not degraded?",
+    "section": "",
+    "text": "This paper explores how geography shapes the legacy of redlining, the systemic mortgage lending bias against minority us neighborhoods. On average, redlined neighborhoods lag behind adjacent, less-discriminated areas in home values, income, and racial composition. Yet, redlined neighborhoods near parks and water fare better. To help understand convergence, we inventory waterfront renovations, apply machine learning to historical imagery to track tree canopy changes, and instrument such changes exploiting tree replacements due to geographic variation in tree plagues and susceptible species. Findings suggest that enhancing waterfronts and increasing tree canopy can mitigate the long-lasting effects of institutionalized discrimination."
+  },
+  {
+    "objectID": "research/dgraded/index.html#section",
+    "href": "research/dgraded/index.html#section",
+    "title": "When are D-graded neighborhoods not degraded?",
+    "section": "",
+    "text": "The Baltimore Inner Harbor example\nFrom his home near the Inner Harbor, C.J. Welsh has watched with interest the new building that has transformed the downtown area and the renovation that has made his neighborhood one of the most expensive and sought in the city. […] “I used to live in a 12,000$ row house in South Baltimore”, said Welsh. “Now I live in a 40,000$ town house on Federal Hill, and I haven’t moved”. (The Washington Post, 1984)\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 1: Inner Harbor, before redevelopment. Source: The Baltimore Sun\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Inner Harbor, after redevelopment. Source: The Cultural Landscape Foundation"
+  },
+  {
+    "objectID": "research/dgraded/index.html#suggested-citation",
+    "href": "research/dgraded/index.html#suggested-citation",
+    "title": "When are D-graded neighborhoods not degraded?",
+    "section": "Suggested citation",
+    "text": "Suggested citation\n@misc{minano2023,\n  author = {Alba Miñano-Mañero},\n  title = {When are D-graded neighborhoods not degraded? Greening the legacy of redlining},\n  year = {2023}\n}"
+  },
+  {
+    "objectID": "research/citybuzz/index.html",
+    "href": "research/citybuzz/index.html",
+    "title": "City buzz",
+    "section": "",
+    "text": "We measure face-to-face interactions as the coincidence in space and time of two cellphone users who have previously called each other or who start doing so after the event. We characterize the quantity, quality (network centrality of contacts met), and variety (probability that two interactions are with different contacts) of face-to-face interactions for every individual. We also characterize interactions defined by the different degrees of strength in the call network and differentiate among strong and weak ties. We show how the individual’s experienced density and other features of the urban environment affects these measures of interactions."
+  },
+  {
+    "objectID": "research/citybuzz/index.html#abstract",
+    "href": "research/citybuzz/index.html#abstract",
+    "title": "City buzz",
+    "section": "",
+    "text": "We measure face-to-face interactions as the coincidence in space and time of two cellphone users who have previously called each other or who start doing so after the event. We characterize the quantity, quality (network centrality of contacts met), and variety (probability that two interactions are with different contacts) of face-to-face interactions for every individual. We also characterize interactions defined by the different degrees of strength in the call network and differentiate among strong and weak ties. We show how the individual’s experienced density and other features of the urban environment affects these measures of interactions."
+  },
+  {
+    "objectID": "research/citybuzz/index.html#section",
+    "href": "research/citybuzz/index.html#section",
+    "title": "City buzz",
+    "section": "",
+    "text": "Dunbar’s number theory suggests that we can effectively manage around 150 relationships simultaneously.\n\n\n\nSource: BBC Future"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alba Miñano-Mañero",
+    "section": "",
+    "text": "I am an applied economist with research interests in urban and spatial economics and international trade. In September 2024, I’ll be joining the Lisbon School of Economics and Management as Assitant Professor of Eonomics. You can find my CV here.\nMy research focuses on understanding how history, geography, and proximity shape urban socioeconomic dynamics.\nFeel welcome to drop me an email at alba.minano@cemfi.edu.es."
+  }
+]
