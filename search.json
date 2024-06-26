@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Alba Miñano-Mañero",
+    "section": "",
+    "text": "Material under construction\nBlends and extends the lecture notes of the Geographic Data Science for Public Policy Evaluation (AiREF - 2024) and Introduction to Python (CEMFI Diploma in Banking Supervision, 2024).\nMay be of interest to:\n\nNewcomers to geographic data science.\nUsers of desktop GIS programms that want to shift to programming approahces.\nPeople interested in using geographic data tools for research or policy evaluation purposes.\n\nTopics covered:\n\nIntroduction to Python.\nIntroduction to Geographic Data.\nData Visualization with QGIS and Python.\nProcessing and Analyzing Geographi Data with Python."
+  },
+  {
+    "objectID": "teaching.html#section",
+    "href": "teaching.html#section",
+    "title": "Alba Miñano-Mañero",
+    "section": "",
+    "text": "Material under construction\nBlends and extends the lecture notes of the Geographic Data Science for Public Policy Evaluation (AiREF - 2024) and Introduction to Python (CEMFI Diploma in Banking Supervision, 2024).\nMay be of interest to:\n\nNewcomers to geographic data science.\nUsers of desktop GIS programms that want to shift to programming approahces.\nPeople interested in using geographic data tools for research or policy evaluation purposes.\n\nTopics covered:\n\nIntroduction to Python.\nIntroduction to Geographic Data.\nData Visualization with QGIS and Python.\nProcessing and Analyzing Geographi Data with Python."
+  },
+  {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
