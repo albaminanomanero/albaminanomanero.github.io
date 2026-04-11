@@ -1,0 +1,33 @@
+---
+title: "City buzz"
+subtitle: "Face-to-Face interaction and the urban environment"
+date: June 2023
+authors:
+  - name: Javier Alonso
+    affiliation: CEMFI
+  - name: Dani Arribas-Bel
+    url: https://darribas.org
+    affiliation: University of Liverpool
+  - name: Alba Miñano-Mañero
+    url: https://albaminanomanero.github.io/
+    affiliation: ISEG
+  - name: Souneil Park
+    affiliation: Nielsen
+  - name: Diego Puga
+    url: https://diegopuga.org/
+    affiliation: CEMFI  
+image: ./img/dunbar.jpg
+status: working-papers
+---
+
+## Abstract
+
+We measure face-to-face interactions as the coincidence in space and time of two cellphone users who have previously called each other or who start doing so after the event. We characterize the quantity, quality (network centrality of contacts met), and variety (probability that two interactions are with different contacts) of face-to-face interactions for every individual. We also characterize interactions defined by the different degrees of strength in the call network and differentiate among strong and weak ties. We show how the individual’s experienced density and other features of the urban environment affects these measures of interactions.
+
+##
+
+**Dunbar's number theory suggests that we can effectively manage around 150 relationships simultaneously.**
+
+![Source: [BBC Future](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships)](./img/dunbar.jpg)
+
+##

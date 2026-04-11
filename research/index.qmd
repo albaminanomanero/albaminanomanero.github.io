@@ -1,0 +1,15 @@
+---
+title: Research
+home: true
+listing:
+    - id: projects
+      contents: "/*/index.qmd"
+      sort: "date desc"
+      template: ./listings.ejs
+page-layout: full
+title-block-banner: "#fff"
+max-description-length: 100000
+---
+
+:::{#projects}
+:::
