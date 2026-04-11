@@ -4,14 +4,21 @@
     "href": "teaching.html",
     "title": "Alba Miñano-Mañero",
     "section": "",
-    "text": "Material under construction\nBlends and extends the lecture notes of the Geographic Data Science for Public Policy Evaluation (AiREF - 2024) and Introduction to Python (CEMFI Diploma in Banking Supervision, 2024).\nMay be of interest to:\n\nNewcomers to geographic data science.\nUsers of desktop GIS programms that want to shift to programming approahces.\nPeople interested in using geographic data tools for research or policy evaluation purposes.\n\nTopics covered:\n\nIntroduction to Python.\nIntroduction to Geographic Data.\nData Visualization with QGIS and Python.\nProcessing and Analyzing Geographic Data with Python."
+    "text": "Binder repository containing the notebooks for the R-coding sessions of the course Data Analysis for Economics and Business, taught to first-year B.Sc. in Finance students at ISEG (2025). These notebooks were developed with the idea of providing a first introduction to programming for undergraduate students, helping them build practical skills in data analysis. The materials cover five sessions introducing applied data analysis in R.\nTopics covered:\n\nSet up; import, clean, and manage data.\nBasic programming concepts, data structures, and visualization (ggplot2).\nDescriptive statistics, group comparisons, inequality (Gini, Lorenz), and log transformations.\nExploring relationships: scatter plots, correlation, and interpretation.\nIntroduction to linear regression, coefficient interpretation, and reporting results.\n\nYou may also find here multiple-choice questions designed to assess key concepts in an introductory data analysis course. They are shared as a resource that may be useful for both students and instructors. Typos and errors are my own."
   },
   {
     "objectID": "teaching.html#section",
     "href": "teaching.html#section",
     "title": "Alba Miñano-Mañero",
     "section": "",
-    "text": "Material under construction\nBlends and extends the lecture notes of the Geographic Data Science for Public Policy Evaluation (AiREF - 2024) and Introduction to Python (CEMFI Diploma in Banking Supervision, 2024).\nMay be of interest to:\n\nNewcomers to geographic data science.\nUsers of desktop GIS programms that want to shift to programming approahces.\nPeople interested in using geographic data tools for research or policy evaluation purposes.\n\nTopics covered:\n\nIntroduction to Python.\nIntroduction to Geographic Data.\nData Visualization with QGIS and Python.\nProcessing and Analyzing Geographic Data with Python."
+    "text": "Binder repository containing the notebooks for the R-coding sessions of the course Data Analysis for Economics and Business, taught to first-year B.Sc. in Finance students at ISEG (2025). These notebooks were developed with the idea of providing a first introduction to programming for undergraduate students, helping them build practical skills in data analysis. The materials cover five sessions introducing applied data analysis in R.\nTopics covered:\n\nSet up; import, clean, and manage data.\nBasic programming concepts, data structures, and visualization (ggplot2).\nDescriptive statistics, group comparisons, inequality (Gini, Lorenz), and log transformations.\nExploring relationships: scatter plots, correlation, and interpretation.\nIntroduction to linear regression, coefficient interpretation, and reporting results.\n\nYou may also find here multiple-choice questions designed to assess key concepts in an introductory data analysis course. They are shared as a resource that may be useful for both students and instructors. Typos and errors are my own."
+  },
+  {
+    "objectID": "teaching.html#section-1",
+    "href": "teaching.html#section-1",
+    "title": "Alba Miñano-Mañero",
+    "section": "2024",
+    "text": "2024\n\nMapping Economic Landscapes\nMaterial under eternal construction\nBlends and extends the lecture notes of the Geographic Data Science for Public Policy Evaluation (AiREF - 2024) and Introduction to Python (CEMFI Diploma in Banking Supervision, 2024).\nMay be of interest to:\n\nNewcomers to geographic data science.\nUsers of desktop GIS programms that want to shift to programming approahces.\nPeople interested in using geographic data tools for research or policy evaluation purposes.\n\nTopics covered:\n\nIntroduction to Python.\nIntroduction to Geographic Data.\nData Visualization with QGIS and Python.\nProcessing and Analyzing Geographic Data with Python."
   },
   {
     "objectID": "research/citybuzz/index.html",
@@ -130,6 +137,6 @@
     "href": "index.html",
     "title": "Alba Miñano-Mañero",
     "section": "",
-    "text": "I am an applied economist with research interests in urban and spatial economics and international trade. My research focuses on understanding how history, geography, and proximity shape urban socioeconomic dynamics. You can find my CV here.\nFeel welcome to drop me an email at alba.minano@iseg.ulisboa.pt.\nSince September 2024, I have been an Assistant Professor of Economics at the Lisbon School of Economics and Management (ISEG), where I am also an affiliated researcher at both UECE and REM. Prior to this, I completed a Ph.D. in Economics at CEMFI in 2023, where I was also a postdoctoral researcher until July 2024. I originally hail from l’Horta Nord (València)."
+    "text": "I am an applied economist with research interests in urban and spatial economics and international trade. My research focuses on understanding how history, geography, and proximity shape urban socioeconomic dynamics. You can find my CV here.\nFeel welcome to drop me an email at alminano@ucm.es.\nSince March 2026, I have been a tenure-track Assistant Professor (Profesora Ayudante Doctora) in the Department of Economic Analysis and Quantitative Economics at Universidad Complutense de Madrid (UCM). Prior to this, I was a Visiting Assistant Professor of Economics at the Lisbon School of Economics and Management (ISEG), where I am also an affiliated researcher at both UECE and REM. I completed a Ph.D. in Economics at CEMFI in 2023, where I was also a postdoctoral researcher until July 2024. I originally hail from l’Horta Nord (València)."
   }
 ]
