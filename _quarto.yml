@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 5556
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: auto
+  warning: false
+
+website:
+  title: "Alba Miñano-Mañero"
+
+  favicon: static/media/icon.png
+  site-url: https://albaminanomanero.github.io/
+  repo-url: https://github.com/albaminanomanero/albaminanomanero.github.io
+  google-analytics:  "G-T8XF3WH093"
+  twitter-card:
+    creator: "@alba_minano"
+    site: "@alba_minano"
+  open-graph: true
+
+  navbar:
+    right:
+      - href: ./files/cv.pdf
+        text: CV
+      - href: ./research/index.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+  bread-crumbs: false
+
+
+  page-footer:
+    left: |
+      <span class="faux-block"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""> Alba Miñano-Mañero</p> </span>
+      <span class="faux-block">This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p></span>
+
+format:
+  html:
+    theme: styles.scss
+    toc: false
+    mainfont: Cormorant
+    template-partials:
+      - ./research/title-block.html
+

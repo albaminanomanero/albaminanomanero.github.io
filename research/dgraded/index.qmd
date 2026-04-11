@@ -1,0 +1,53 @@
+---
+title: "When are D-graded neighborhoods not degraded?"
+subtitle: "Greening the legacy of redlining"
+date: February 2024
+author:
+  - name: Alba Miñano-Mañero
+    url: https://albaminanomanero.github.io/
+    affiliation: CEMFI
+image: ./img/borderdc.jpeg
+status: working-papers
+pub-info:
+  links:
+    - name: "Latest version"
+      url: ../../files/dgraded.pdf
+
+#description: How do changes in geography shape the legacy of discriminatory
+---
+
+## Abstract
+
+This paper explores how geography shapes the legacy
+of redlining, the systemic mortgage lending bias against minority
+us neighborhoods. On average, redlined neighborhoods lag behind
+adjacent, less-discriminated areas in home values, income, and racial
+composition. Yet, redlined neighborhoods near parks and water fare
+better. To help understand convergence, we inventory waterfront
+renovations, apply machine learning to historical imagery to track
+tree canopy changes, and instrument such changes exploiting tree
+replacements due to geographic variation in tree plagues and
+susceptible species. Findings suggest that enhancing waterfronts
+and increasing tree canopy can mitigate the long-lasting effects of
+institutionalized discrimination. 
+
+##
+**The Baltimore Inner Harbor example**
+
+*From his home near the Inner Harbor, C.J. Welsh has watched with interest the new building that has transformed the downtown area and the renovation that has made his neighborhood one of the most expensive and sought in the city. [...] "I used to live in a 12,000$ row house in South Baltimore", said Welsh. "Now I live in  a 40,000$ town house on Federal Hill, and I haven't moved".* (The Washington Post, 1984)
+
+::: {layout-ncol=2}
+![Inner Harbor, before redevelopment. Source: The Baltimore Sun](./img/before_baltimore.png){#fig-before}
+
+![Inner Harbor, after redevelopment. Source: The Cultural Landscape Foundation](./img/after_baltimore.jpg){#fig-after}
+:::
+## 
+## Suggested citation 
+
+```bibtex
+@misc{minano2023,
+  author = {Alba Miñano-Mañero},
+  title = {When are D-graded neighborhoods not degraded? Greening the legacy of redlining},
+  year = {2023}
+}
+```
